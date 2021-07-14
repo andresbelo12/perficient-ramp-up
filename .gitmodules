@@ -1,0 +1,6 @@
+[submodule "movie-analyst-api"]
+	path = movie-analyst-api
+	url = https://github.com/andresbelo12/movie-analyst-api
+[submodule "movie-analyst-ui"]
+	path = movie-analyst-ui
+	url = https://github.com/andresbelo12/movie-analyst-ui
