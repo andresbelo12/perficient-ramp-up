@@ -4,3 +4,6 @@
 [submodule "movie-analyst-ui"]
 	path = movie-analyst-ui
 	url = https://github.com/andresbelo12/movie-analyst-ui
+[submodule "ramp_up_iac"]
+	path = ramp_up_iac
+	url = https://github.com/andresbelo12/ramp_up_iac.git
