@@ -1,0 +1,10 @@
+﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+"My Estimate,US East (Ohio),,Amazon RDS for MySQL,0,1382.7,16592.40,USD,""Storage for each RDS instance (Magnetic (previous generation)), Storage amount (30 GB), Quantity (1), Instance type (db.r3.4xlarge), Deployment option (Single-AZ), Pricing strategy (OnDemand)"""
+"My Estimate,US East (Ohio),,Amazon EC2,0,541.3131999999999,6495.76,USD,""Operating system (Linux), Storage amount (10 GB), DT Inbound: Internet (1 TB per month), DT Inbound: All other regions (1 TB per month), DT Outbound: Internet (2 TB per month), DT Outbound: All other regions (2 TB per month), DT Intra-Region: (1 TB per month), Workload (Monthly, Baseline: 8, Peak: 100, Duration of peak: 3 Day 0 Hr 0 Min), Snapshot Frequency (2x Daily), Amount changed per snapshot (3 GB), Advance EC2 instance (t3a.small), Pricing strategy (EC2 Instance Savings Plans 1 Year  None upfront)"""
+My Estimate,US East (Ohio),,Application Load Balancer,0,67.89,814.68,USD,Number of Application Load Balancers (2)
+My Estimate,US East (Ohio),,Amazon Virtual Private Cloud (VPC),0,65.78,789.36,USD,Number of NAT Gateways (2)
+
+
+
+Acknowledgement
+* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.
