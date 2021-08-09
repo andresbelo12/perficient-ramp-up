@@ -7,3 +7,6 @@
 [submodule "ramp_up_iac"]
 	path = ramp_up_iac
 	url = https://github.com/andresbelo12/ramp_up_iac.git
+[submodule "ramp_up_cm"]
+	path = ramp_up_cm
+	url = https://github.com/andresbelo12/ramp_up_cm.git
